@@ -57,28 +57,28 @@ El BASIC original, el Dartmouth BASIC, fue diseñado en 1964 por John George K
 BASIC originalmente fue desarrollado como una herramienta de enseñanza. 
 
 Las principales ventajas:
--Posee una curva de aprendizaje muy rápida.
--Integra el diseño e implementación de formularios de Windows.
--Permite usar con suma facilidad la plataforma de los sistemas Windows.
--El código en Visual Basic es fácilmente migrable a otros lenguajes.
--Acostumbra a los desarrolladores a programar con eficiencia.
+* Posee una curva de aprendizaje muy rápida.
+* Integra el diseño e implementación de formularios de Windows.
+* Permite usar con suma facilidad la plataforma de los sistemas Windows.
+* El código en Visual Basic es fácilmente migrable a otros lenguajes.
+* Acostumbra a los desarrolladores a programar con eficiencia.
 
 Las principales desventajas:
--No es multiplataforma (Sin embargo se pueden usar emuladores e interpretes para correrlos en otras plataformas).
--Por defecto permite la programación sin declaración de variables. (que puede ser sencillamente corregida escribiendo la frase  Option Explicit en el encabezado de cada formulario, en cuyo caso - será menester declarar todas las variables a utilizar, lo que a la postre genera código más puro).
--No permite programación a bajo nivel ni incrustrar secciones de código en ASM.
--Sólo permite el uso de funciones de librerías dinámicas (DLL) stdcall.
--Algunas funciones están indocumentadas (Sin embargo esto ocurre en muchos lenguajes).
--Es un lenguaje basado en objetos y no orientado a objetos.
--No maneja muy bien los apuntadores de memoria.
--No soporta tratamiento de procesos como parte del lenguaje.
--No incluye operadores de desplazamiento de bits como parte del lenguaje.
--No permite el manejo de memoria dinámica, punteros, etc. como parte del lenguaje.
--No avisa de ciertos errores o advertencias (se puede configurar el compilador para generar ejecutables sin los controladores de desbordamiento de enteros o las comprobaciones de límites en matrices entre otros, dejando así más de la mano del programador la tarea de controlar dichos errores)
--No tiene instrucciones de preprocesamiento.
--El tratamiento de mensajes de Windows es básico e indirecto.
--La gran gama de controles incorporados son, sin embargo en algunos casos, muy generales, lo que lleva a tener que reprogramar nuevos controles para una necesidad concreta de la aplicación. -Esto cambia radicalmente en Visual Basic .NET donde es posible reprogramar y mejorar o reutilizar los controles existentes.
--Los controles personalizados no mejoran la potencia de la API de Windows, y en determinados casos acudir a ésta será el único modo de conseguir el control personalizado deseado.
+* No es multiplataforma (Sin embargo se pueden usar emuladores e interpretes para correrlos en otras plataformas).
+* Por defecto permite la programación sin declaración de variables. (que puede ser sencillamente corregida escribiendo la frase  Option Explicit en el encabezado de cada formulario, en cuyo caso - será menester declarar todas las variables a utilizar, lo que a la postre genera código más puro).
+* No permite programación a bajo nivel ni incrustrar secciones de código en ASM.
+* Sólo permite el uso de funciones de librerías dinámicas (DLL) stdcall.
+* Algunas funciones están indocumentadas (Sin embargo esto ocurre en muchos lenguajes).
+* Es un lenguaje basado en objetos y no orientado a objetos.
+* No maneja muy bien los apuntadores de memoria.
+* No soporta tratamiento de procesos como parte del lenguaje.
+* No incluye operadores de desplazamiento de bits como parte del lenguaje.
+* No permite el manejo de memoria dinámica, punteros, etc. como parte del lenguaje.
+* No avisa de ciertos errores o advertencias (se puede configurar el compilador para generar ejecutables sin los controladores de desbordamiento de enteros o las comprobaciones de límites en matrices entre otros, dejando así más de la mano del programador la tarea de controlar dichos errores)
+* No tiene instrucciones de preprocesamiento.
+* El tratamiento de mensajes de Windows es básico e indirecto.
+* La gran gama de controles incorporados son, sin embargo en algunos casos, muy generales, lo que lleva a tener que reprogramar nuevos controles para una necesidad concreta de la aplicación. -Esto cambia radicalmente en Visual Basic .NET donde es posible reprogramar y mejorar o reutilizar los controles existentes.
+* Los controles personalizados no mejoran la potencia de la API de Windows, y en determinados casos acudir a ésta será el único modo de conseguir el control personalizado deseado.
 
 ## Herramientas de desarrollo
 
