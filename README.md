@@ -26,11 +26,9 @@ Para añadir colaboradores hay que hacer click en la pestaña *Settings* y selec
 
 ## Miembros del grupo
 
-Escribe aquí los miembros del grupo. El primero es el representante o encargado.
-
-* Alan Brito
-* Elba Lazo
-* Esteban Quito
+* Viktoriia Stasiuk
+* Pablo Pinto Cebrián
+* Adrián Chamorro Silva
 
 ## Lenguaje de programación
 
@@ -38,7 +36,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* BASIC
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
