@@ -3,6 +3,7 @@
 
 ## Miembros del grupo
 
+## Miembros del grupo: "BASICEUD"
 * Viktoriia Stasiuk
 * Pablo Pinto Cebrián
 * Adrián Chamorro Silva
