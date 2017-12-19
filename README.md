@@ -151,7 +151,7 @@ next i
 	print noPrimo[j] 
 	next j
 ```
-
+<img src="imagenes/Primos.png">
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
