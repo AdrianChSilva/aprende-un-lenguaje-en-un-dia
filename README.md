@@ -1,8 +1,6 @@
 # Aprende un lenguaje de programación en un día (ejercicio voluntario para subir nota).
 
 
-## Miembros del grupo
-
 ## Miembros del grupo: "BASICEUD"
 * Viktoriia Stasiuk
 * Pablo Pinto Cebrián
