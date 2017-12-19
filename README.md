@@ -93,7 +93,7 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ```BASIC
 print "¡Hola mundo!"
 ```
-<img src="imagenes/HolaMundo.png">
+<img src="imagenes/holamundoBasic.png">
 
 ### 2. Pirámide
 
