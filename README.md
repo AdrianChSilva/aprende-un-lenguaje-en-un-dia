@@ -55,7 +55,9 @@ Las principales desventajas:
 
 La herramienta utilizada para programar en BASIC ha sido BASIC256
 
-Es un IDE muy básico
+Es un IDE muy básico, diseñado específicamente para la enseñanza. Su objetivo es la de proveer una comprensión sencilla de la sintaxis.
+
+Cabe destacar que dependiendo del IDE varían ciertas sentencias y palabras reservadas.
 
 ## Poniendo en práctica el lenguaje
 
