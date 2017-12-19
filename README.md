@@ -100,14 +100,21 @@ print "¡Hola mundo!"
 ```BASIC
 PRINT "Altura del triangulo"
 INPUT altura
-
+espacios = altura -1
 FOR fila = 1 TO altura STEP 1
-	FOR columna = 1 TO fila
+
+for i = 1 to espacios step 1
+print " ";
+next i
+	FOR columna = 1 TO fila *2 -1 step 1
 	PRINT "*";
 	NEXT columna
 PRINT
+altura ++
+espacios--
 NEXT fila
 ```
+<img src="imagenes/Piramide.png">
 
 ### 3. Arrays y números aleatorios
 
