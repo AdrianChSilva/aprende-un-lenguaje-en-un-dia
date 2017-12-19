@@ -93,14 +93,57 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ```BASIC
 print "¡Hola mundo!"
 ```
+<img src="BASIC/HolaMundo.png">
 
 ### 2. Pirámide
 
-Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+```BASIC
+PRINT "Altura del triangulo"
+INPUT altura
+
+FOR fila = 1 TO altura STEP 1
+	FOR columna = 1 TO fila
+	PRINT "*";
+	NEXT columna
+PRINT
+NEXT fila
+```
 
 ### 3. Arrays y números aleatorios
 
-Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+```BASIC
+dim n(20)
+dim primo(20)
+dim noPrimo(20)
+esPrimo = false
+contador = 0
+primos = 0
+noPrimos = 0
+for i = 0 to 19
+n[i] = int (Rand() * 100) + 1
+esPrimo = true 
+	for j = 2 to n[i] - 1 step 1
+	if (n[i] % j = 0) Then
+	esPrimo = false
+
+	
+	end if
+	next j
+	if (esPrimo = true) then
+	primo[primos++] = n[i]
+	else 
+	noPrimo[noPrimos++] = n[i]
+	end if
+next i
+
+	for i = 0 to primos-1
+	print primo[i]
+	next i
+	
+	for j= 0 to  noPrimos-1
+	print noPrimo[j] 
+	next j
+```
 
 ## Presentación de resultados
 
