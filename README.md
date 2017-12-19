@@ -19,12 +19,6 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Manual sobre el lenguaje de programación BASIC: 
-http://manuales.speccy.org/manual_usuario_plus2/capitulo_8_parte_I.pdf
-
-Páginas sobre el lenguaje de programación BASIC:
-http://www.aprendeaprogramar.com/course/view.php?id=6
-
 Las principales características: 
 
 La fecha y meta de creación:
